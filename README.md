@@ -1,5 +1,5 @@
 # LiveLayer
-Bringing animated wallpapers to MacOS.
+Bringing animated wallpapers to macOS.
 
 > [!NOTE]  
 > This purpose of this app is to add support for animated wallpapers to macOS, as macOS does not support animated wallpapers.
