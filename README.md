@@ -1,5 +1,8 @@
 # LiveLayer
 Bringing animated wallpapers to macOS.
+> [!NOTE]  
+> To HighSeas viewers: The source is in the source branch. Added this notice here because I got a DM from someone who didn't notice the other branch I had added
+
 
 > [!NOTE]  
 > This purpose of this app is to add support for animated wallpapers to macOS, as macOS does not support animated wallpapers.
