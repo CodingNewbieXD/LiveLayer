@@ -14,7 +14,7 @@ You can download the latest build here:
 > [!NOTE]  
 > Currently only Apple Silicon builds are available (to be completely honest I couldn't get universal2 or intel to build correctly)
 
-[LiveLayer v0.0.1](https://github.com/CodingNewbieXD/LiveLayer/raw/refs/heads/main/LiveLayer_v0.0.1.zip)
+[LiveLayer v0.0.1](https://github.com/CodingNewbieXD/LiveLayer/raw/refs/heads/releases/LiveLayer_v0.0.1.zip)
 
 
 ## Future Plans
