@@ -1,3 +1,0 @@
-/usr/local/bin/python3.11 -m pip install --force-reinstall PyObjC PyObjC-core
-
-/usr/local/bin/python3.11 -m pip install pyobjc
