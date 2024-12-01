@@ -1,6 +1,9 @@
 # LiveLayer
 Bringing animated wallpapers to MacOS.
 
+> [!NOTE]  
+> This purpose of this app is to add support for animated wallpapers to macOS, as macOS does not support animated wallpapers.
+
 ## About
 I noticed that Windows had some great apps for animated wallpapers, but macOS lacked a similar experience. So, I decided to create my own! LiveLayer is a lightweight application designed to give macOS users the ability to enjoy animated wallpapers.
 
